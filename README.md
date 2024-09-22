@@ -11,6 +11,13 @@
 3. Vector Database : Pinecone
 4. LLM : OpenAI
 
+### Interface
+# Authorization
+![Interface](https://github.com/irtika98/Zeytin/blob/49eb208eb8c4e78f2d786e5fa7b1a62bfc57a0e2/login.png)
+# Chat
+![Interface](https://github.com/irtika98/Zeytin/blob/3eeb00d117ca7ffbdba3b66bcd9652f801b3cb8d/chat_demo.png)
+
+
 ### Installation
 
 ## 1. Clone the repository
@@ -50,6 +57,7 @@ Once the server is up, open your browser and navigate to:
 
 ## 6. Register!
 Register yourself.
+
 
 
 
