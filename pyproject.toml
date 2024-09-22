@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "zytn"
+version = "0.1.0"
+description = "my personal AI assistant"
+authors = ["Irtika Dar <2021ume0212@iitjammu.ac.in>"]
+license = "NA"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+django = "^5.1.1"
+langchain-pinecone = "^0.2.0"
+langchain-openai = "^0.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
