@@ -1,5 +1,5 @@
 ### Introduction
-**Zeytin** is my personal AI assistant, I built for my Robotics course. The knowledge base for the assistant is **Introduction to Robotics** by John J. Craig. Zeytin fetches precise topics and page numbers from the book, and provides curated responses, letting me focus on learning without the hassle of manual searching the book. 
+**Zeytin** is my personal AI assistant, I built for my Robotics course. The knowledge base for the assistant is **Introduction to Robotics** by John J. Craig. Zeytin fetches precise topics and page numbers from the book, and provides well-curated responses, letting me focus on learning without the hassle of manual searching the book. 
 ### High Level Design
 
 ![architecture ](https://github.com/irtika98/Zeytin/blob/512aebd66d3e0c5eccd1ac205eba6409e310b8af/HLD.png)
