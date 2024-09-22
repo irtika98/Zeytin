@@ -1,3 +1,3 @@
 ### High Level Design
 
-![architecture ](https://github.com/irtika98/Zeytin/blob/main/HLD.pnghttps://github.com/irtika98/Realtime-Facial-expression-recognition/blob/master/arch.png)
+![architecture ](https://github.com/irtika98/Zeytin/blob/512aebd66d3e0c5eccd1ac205eba6409e310b8af/HLD.png)
